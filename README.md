@@ -52,6 +52,5 @@ Text
         Anmerkung!
         <br>
         <br>
-       
-    </b>
+    
 </center>
