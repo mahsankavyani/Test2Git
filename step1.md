@@ -79,7 +79,7 @@ TextTextTextTextTextTextTextTextTextTextTextText
         <li>p2</li>
         <li>p3</li>
       </ol>
-      Damit ist der Kreis der begünstigten Personen zwar relativ weit. Eine Nutzung durch Dritte ist aber erst möglich, wenn das konkret in Rede stehende Werk bereits für den Unterricht an der Bildungseinrichtung verwendet worden ist. Ferner können nur Personen mit einem institutionellen Bezug zu einer Bildungseinrichtung von der Schranke des § 60a UrhG Gebrauch machen.
+
     </td>
     <td valign="top"> text
       <br><br>
