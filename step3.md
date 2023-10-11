@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link href="/your-path-to-fontawesome/css/all.css" rel="stylesheet">
 
-<iframe src="https://app.Lumi.education/api/v1/run/1SfuoC/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
+
 
 <div class="infobox">
   <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
@@ -15,6 +15,11 @@
 
 Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahrplan behilflich sein. Überlegen Sie sich zunächst, um welche Granularität es sich bei Ihrem OER-Projekt handelt. Skizzieren Sie, was Sie konkret planen und welche Inhalte und Materialien dafür erstellt oder (neu-)aufbereitet werden müssen.
 <br>
+
+<iframe src="https://raw.githack.com/mahsankavyani/Test2Git/main/Quiz%20Praktische%20Anwendungsf%C3%A4lle.html" width="100%" height="759" frameborder="0" overflow="auto" scrolling="no"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+
 <table id="invisible">
   <tr>
     <td valign="middle" text-align="left" width="60%">
