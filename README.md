@@ -13,7 +13,7 @@ TextText
 TextText
 <p align="center">## Mein Projekt</p>
 <p align="center">Ein tolles Open-Source-Projekt für GitHub-Nutzer.</p>
-<p align="center"><img src="project-image.png" width="400"></p>
+
 
 <font color="#8b0000">
 <h3>Unterunterkapitel</h3>
