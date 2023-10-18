@@ -64,7 +64,21 @@ Text
 
 tttttttt
 
-# Titel
 
+# Dies ist ein Haupttitel (H1)
 
-## Untertitel
+## Dies ist eine Unterüberschrift (H2)
+
+### Dies ist eine Unterüberschrift (H3)
+
+#### Dies ist eine Unterüberschrift (H4)
+
+##### Dies ist eine Unterüberschrift (H5)
+
+<h1>Dies ist ein Haupttitel</h1>
+
+<h2>Dies ist eine Unterüberschrift</h2>
+
+<h3>Dies ist eine Unterüberschrift</h3>
+
+<h4>Dies ist eine Unterüberschrift</h4>
