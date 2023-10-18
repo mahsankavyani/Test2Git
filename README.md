@@ -11,7 +11,7 @@ TextTextTextText
 
 TextText
 TextText
-<p align="center">## Mein Projekt</p>
+<p align="center">Mein Projekt</p>
 <p align="center">Ein tolles Open-Source-Projekt für GitHub-Nutzer.</p>
 
 
