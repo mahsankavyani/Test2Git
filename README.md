@@ -14,16 +14,16 @@ TextText
 <p align="center">Mein Projekt</p>
 <p align="center">Ein tolles Open-Source-Projekt für GitHub-Nutzer.</p>
 
-<span style="color: red;">Dies ist roter Textssss</span>
+<span style="color: red;">Dies ist roter Text</span>
 
 
-<font color="##CCCCFF">
+<font color="#000080">
 <h3>Unterunterkapitel</h3>
 
 TextText
 Text
 </font>
-<font color="#000080">
+<font color="#CCCCFF">
 <h3>Unterunterkapitel</h3>
 
 TextText
