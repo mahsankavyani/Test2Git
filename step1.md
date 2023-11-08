@@ -40,9 +40,7 @@ font-size: 16px; color: #666;
 
     <p>Dies ist der Text in Ihrer Infobox. Sie können beliebige Informationen hier einfügen.</p>
 
-</div>
-
-<link rel="stylesheet" type="text/css" href="infobox.css">
+</div><link rel="stylesheet" type="text/css" href="infobox.css">
 Text
 
  TextTextTextTextTextTextTextTextTextTextTextText(<a href="https://en.unesco.org/themes/building-knowledge-societies/oer">Link</a>).
