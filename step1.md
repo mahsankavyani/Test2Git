@@ -16,6 +16,24 @@
   </p>
 </div>
 
+
+<div class="infobox">
+    <h2>Infobox-Titel</h2>
+
+    <p>Dies ist der Text in Ihrer Infobox. Sie können beliebige Informationen hier einfügen.</p>
+
+</div>
+<style>
+       .infobox {
+border: 1px solid #000; padding: 10px; background-color: #f0f0f0; width: 300px; margin: 20px;
+                       }
+                      h2 {
+ font-size: 20px; color: #333;
+                           }
+                      p {
+font-size: 16px; color: #666;
+                          } </style>
+
 Text
 
  TextTextTextTextTextTextTextTextTextTextTextText(<a href="https://en.unesco.org/themes/building-knowledge-societies/oer">Link</a>).
