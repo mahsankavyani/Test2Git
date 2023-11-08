@@ -34,13 +34,17 @@ border: 1px solid #000; padding: 10px; background-color: #f0f0f0; width: 300px; 
 font-size: 16px; color: #666;
                           } </style>
 
+
+
                       
 <div class="infobox">
     <h2>Infobox-Titel</h2>
 
     <p>Dies ist der Text in Ihrer Infobox. Sie können beliebige Informationen hier einfügen.</p>
 
-</div><link rel="stylesheet" type="text/css" href="infobox.css">
+</div>
+
+<link rel="stylesheet" type="text/css" href="infobox.css">
 
 <link rel="stylesheet" type="text/css" href="infobox.css">
 <div class="infobox">
@@ -96,6 +100,45 @@ Text
     </ul></td>
   </tr>
 </table>
+
+
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 80%;
+        margin: 20px;
+    }
+
+    th, td {
+        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+</style>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Alter</th>
+        <th>Ort</th>
+    </tr>
+    <tr>
+        <td>Max Mustermann</td>
+        <td>30</td>
+        <td>Berlin</td>
+    </tr>
+    <tr>
+        <td>Maria Musterfrau</td>
+        <td>25</td>
+        <td>München</td>
+    </tr>
+</table>
+
 
 TextTextTextTextTextTextTextTextTextTextTextText
 TextTextTextTextTextTextTextTextTextTextTextText
