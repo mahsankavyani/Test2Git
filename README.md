@@ -82,3 +82,15 @@ tttttttt
 <h3>Dies ist eine Unterüberschrift</h3>
 
 <h4>Dies ist eine Unterüberschrift</h4>
+
+<details>
+  <summary>Klick mich, um mehr zu erfahren!</summary>
+
+  Hier ist der Inhalt, der in der klapplaren Box angezeigt wird. Dies kann beliebiger Markdown-Text sein.
+
+  Zum Beispiel eine Liste:
+  - Punkt 1
+  - Punkt 2
+  - Punkt 3
+</details>
+
