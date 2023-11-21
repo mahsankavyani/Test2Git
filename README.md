@@ -154,3 +154,39 @@ tttttttt
 
 </body>
 </html>
+
+
+
+<style>
+  details {
+    border: 1px solid #ddd;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  summary {
+    cursor: pointer;
+  }
+</style>
+
+<details>
+  <summary>Bereich 1</summary>
+  
+  Inhalt des Bereichs 1.
+
+</details>
+
+<details>
+  <summary>Bereich 2</summary>
+  
+  Inhalt des Bereichs 2.
+
+</details>
+
+<details>
+  <summary>Bereich 3</summary>
+  
+  Inhalt des Bereichs 3.
+
+</details>
+
