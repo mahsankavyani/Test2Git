@@ -58,6 +58,7 @@ Text
         Anmerkung!
         <br>
         <br>
+        
     
 </center>
 <h1>Unterkapitel:</h1>
@@ -98,7 +99,7 @@ tttttttt
 
 <h2>FAQ zu möglichen Stolpersteinen bei der Aufbereitung von OER</h2>
 
-<div>
+
   <button class="accordion">Muss ich immer eine Lizenz angeben?</button>
   <div class="panel">
     <p>
