@@ -83,7 +83,6 @@ tttttttt
 
 <h4>Dies ist eine Unterüberschrift</h4>
 <font color="#000080">
-
 <details>
   <summary>Klick mich, um mehr zu erfahren!</summary>
 
@@ -94,5 +93,4 @@ tttttttt
   - Punkt 2
   - Punkt 3
 </details>
-
 </font>
