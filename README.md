@@ -167,6 +167,15 @@ tttttttt
     padding: 5px;
     margin-bottom: 10px;
     border-radius: 5px;
+    background-color: #eee;
+      color: #333;
+      cursor: pointer;
+      padding: 18px;
+      width: 100%;
+      text-align: left;
+      border: none;
+      outline: none;
+      transition: 0.4s;
   }
   summary {
     cursor: pointer;
