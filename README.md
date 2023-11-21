@@ -111,3 +111,63 @@ tttttttt
       Gerade wenn komplexere Bildungsmaterialien (etwa Kurse oder thematisch geschlossene Einheiten) zur Verfügung gestellt werden, ist es sinnvoll die einzelnen Inhalte und Medienobjekte jeweils für sich mit einer Lizenz zu versehen. Dies erleichtert anderen Nutzer:innen den Umgang mit Ihrem Material z.B. wenn nur Teile des Kurses verwenden werden.
     </p>
   </div>
+
+
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .accordion {
+      background-color: #eee;
+      color: #333;
+      cursor: pointer;
+      padding: 18px;
+      width: 100%;
+      text-align: left;
+      border: none;
+      outline: none;
+      transition: 0.4s;
+    }
+
+    .panel {
+      padding: 0 18px;
+      display: none;
+      background-color: white;
+      overflow: hidden;
+    }
+  </style>
+</head>
+<body>
+
+<button class="accordion">Abschnitt 1</button>
+<div class="panel">
+  <p>Inhalt für Abschnitt 1...</p>
+</div>
+
+<button class="accordion">Abschnitt 2</button>
+<div class="panel">
+  <p>Inhalt für Abschnitt 2...</p>
+</div>
+
+<script>
+  var acc = document.getElementsByClassName("accordion");
+  var i;
+
+  for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var panel = this.nextElementSibling;
+      if (panel.style.display === "block") {
+        panel.style.display = "none";
+      } else {
+        panel.style.display = "block";
+      }
+    });
+  }
+</script>
+
+</body>
+</html>
+
