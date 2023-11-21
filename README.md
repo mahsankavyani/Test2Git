@@ -218,3 +218,21 @@ tttttttt
 
 </details>
 
+
+<br>
+<br>
+<div>
+  <button class="accordion">Muss ich immer eine Lizenz angeben?</button>
+  <div class="panel">
+    <p>
+      Bildungsmaterialien mit einer offen Lizenz stellen ein eindeutiges Indiz für OER dar. Erst durch den Lizenzhinweis können andere Nutzer:innen einschätzen, ob und wie sie die jeweiligen Materialien nutzen dürfen.
+    </p>
+  </div>
+  <button class="accordion">Muss ich wirklich jedes einzelne Material mit einer CC-Lizenz versehen, obwohl mein gesamter Kurs unter einer CC Lizenz steht?</button>
+  <div class="panel">
+    <p>
+      Gerade wenn komplexere Bildungsmaterialien (etwa Kurse oder thematisch geschlossene Einheiten) zur Verfügung gestellt werden, ist es sinnvoll die einzelnen Inhalte und Medienobjekte jeweils für sich mit einer Lizenz zu versehen. Dies erleichtert anderen Nutzer:innen den Umgang mit Ihrem Material z.B. wenn nur Teile des Kurses verwenden werden.
+    </p>
+  </div>
+
+
